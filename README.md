@@ -11,10 +11,6 @@ I'm Özkan from Turkey. I have been deeply interested in software for two years.
 
 - 🔭 I’m currently working on RitimUS: Educational Games 
 
-## GitHub Stats
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=13ozkan&theme=vue&show_icons=true)
-
 ## Concacts
 
    [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/13ozkanozturk/)  
